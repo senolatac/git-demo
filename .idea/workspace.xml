@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/projects/api-gateway" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/projects/search-ads-attributions" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/projects/search-ads-data" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/projects/search-ads-stats" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/projects/search-ads-store" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/projects/slack-integration" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/cross-library-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo-rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/neo4j" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/postgresql" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/skype" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-boot-kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-boot-neo4j" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/spring-boot-rest" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+</project>
